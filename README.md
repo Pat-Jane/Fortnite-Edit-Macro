@@ -26,8 +26,6 @@ To stop the script, press "Stop Script" or exit the GUI
 💾 Save Settings – Your configurations will be stored for future use
 ⏸️ Stop Script – Easily pause the script when needed
 
-Download & Support
-📌 Download: Click Here
 📌 Need Help? Join our Discord: discord.gg/winchesters
 
-🛠 Made by @talabat
+🛠 Made by @talabats
